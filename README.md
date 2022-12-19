@@ -39,7 +39,7 @@
 - [How to Include Latency in SLO-Based Alerting](https://grafana.com/blog/2019/11/27/kubecon-recap-how-to-include-latency-in-slo-based-alerting/)
 - [SLOconf: Should SLOs be request-based or time-based? why neither really works](https://www.youtube.com/watch?v=7uEoFRQYu2w)
 - [SLOconf 2022: Fred Moyer- Don't chase percentiles use histograms if you want precision SLO latency](https://www.youtube.com/watch?v=es_Ydxga_dk)
-- [SLOconf: GitLab’s journey to SLO Monitoring - by Andrew Newdigate](https://www.youtube.com/watch?v=CbX1nZL7biQ)
+- [SLOconf: GitLab's journey to SLO Monitoring - by Andrew Newdigate](https://www.youtube.com/watch?v=CbX1nZL7biQ)
 - [SLOconf 2022: Andrew Newdigate & Bob Van Landuyt - Everyone can contribute to our SLO](https://www.youtube.com/watch?v=YXOm-8cpcyg)
 - [New Relic APM Tutorial: Understanding Apdex](https://www.youtube.com/watch?v=jKkdikCSkuw)
 
