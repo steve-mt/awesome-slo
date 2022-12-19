@@ -27,6 +27,8 @@
 - [Application Performance Index – Apdex Technical Specification](https://www.apdex.org/wp-content/uploads/2020/09/ApdexTechnicalSpecificationV11_000.pdf)
 - [How to choose Apdex T: the final word](https://newrelic.com/blog/best-practices/how-to-choose-apdex-t)
 - [The SLO Development Lifecycle](https://www.slodlc.com/)
+- [SLOs eased](https://last9.io/blog/slos-eased/)
+- [Origin of Service Level Objectives](https://last9.io/blog/the-origin-of-service-level-objectives/)
 
 ## Videos
 
