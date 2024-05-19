@@ -13,11 +13,11 @@
 ## Books
 
 - [The Site Reliability Workbook](https://sre.google/workbook/table-of-contents/)
-    - [Chapter 2 - Implementing SLOs](https://sre.google/workbook/implementing-slos/)
-    - [Chapter 3 - SLO Engineering Case Studies](https://sre.google/workbook/slo-engineering-case-studies/)
-    - [Chapter 4 - Monitoring](https://sre.google/workbook/monitoring/)
-    - [Chapter 5 - Alerting on SLOs](https://sre.google/workbook/alerting-on-slos/)
-    - [Chapter 6 - Eliminating Toil](https://sre.google/workbook/eliminating-toil/)
+  - [Chapter 2 - Implementing SLOs](https://sre.google/workbook/implementing-slos/)
+  - [Chapter 3 - SLO Engineering Case Studies](https://sre.google/workbook/slo-engineering-case-studies/)
+  - [Chapter 4 - Monitoring](https://sre.google/workbook/monitoring/)
+  - [Chapter 5 - Alerting on SLOs](https://sre.google/workbook/alerting-on-slos/)
+  - [Chapter 6 - Eliminating Toil](https://sre.google/workbook/eliminating-toil/)
 - [Implementing Service Level Objectives: A Practical Guide to SLIs, SLOs, and Error Budgets](https://www.amazon.com/Implementing-Service-Level-Objectives-Practical/dp/1492076813/ref=sr_1_1?keywords=implementing+service+level+objectives&qid=1670879258&sprefix=implementing+servic%2Caps%2C193&sr=8-1)
 
 ## Articles
@@ -31,6 +31,8 @@
 - [Origin of Service Level Objectives](https://last9.io/blog/the-origin-of-service-level-objectives/)
 - [SLO vs. SLA - Explained](https://last9.io/blog/sla-vs-slo-vs-sli/)
 - [SLO formulas implementation in PromQL step by step](https://mkaz.me/blog/2024/slo-formulas-implementation-in-promql-step-by-step/)
+- [SLO](https://blog.alexewerlof.com/p/slo)
+- [Multi tier SLO](https://blog.alexewerlof.com/p/multi-tiered-slos)
 
 ## Videos
 
@@ -56,3 +58,4 @@
 - [PromTools](https://promtools.dev/alerts/errors)
 - [slo-generator](https://github.com/google/slo-generator)
 - [pyrra](https://github.com/pyrra-dev/pyrra)
+- [Service Level Calculator](https://slc.alexewerlof.com/)
