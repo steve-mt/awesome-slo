@@ -55,7 +55,7 @@
 
 - [OpenSLO](https://openslo.com/)
 - [Sloth](https://sloth.dev/)
-- [PromTools](https://promtools.dev/alerts/errors)
+- [PromTools](https://github.com/metalmatze/promtools.dev)
 - [slo-generator](https://github.com/google/slo-generator)
 - [pyrra](https://github.com/pyrra-dev/pyrra)
 - [Service Level Calculator](https://slc.alexewerlof.com/)
