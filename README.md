@@ -34,6 +34,7 @@
 - [SLO](https://blog.alexewerlof.com/p/slo)
 - [Multi tier SLO](https://blog.alexewerlof.com/p/multi-tiered-slos)
 - [SLO: Elastic vs Datadog vs Grafana](https://blog.alexewerlof.com/p/slo-elastic-datadog-grafana)
+- [Burn rate is a better error rate](https://www.datadoghq.com/blog/burn-rate-is-better-error-rate/)
 
 ## Videos
 
